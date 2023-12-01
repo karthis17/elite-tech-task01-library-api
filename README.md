@@ -101,7 +101,7 @@ Adds a new user record to the database.
 - The application includes error handling for database operations, responding with appropriate status codes and error messages.
 ## Technologies Used
 - Express.js
-- SQLite (or your preferred database)
+- SQLite
 - Node.js
 
 **Note** : this is not a final version, I'm working on it this may contain some bug or error and I'm also working web interface for this  
