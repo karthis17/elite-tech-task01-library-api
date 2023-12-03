@@ -5,7 +5,7 @@ This Express.js application provides API endpoints to manage books, patrons, and
 ### Installation:
 Clone this repository to your local machine:
 ``` bash
-git clone 'https://github.com/karthis17/elite-tech-task01-library-api.git'
+git clone 'https://github.com/karthis17/libraryManage-API.git'
 ```
 ### Install dependencies:
 ```bash
